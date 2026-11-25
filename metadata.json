@@ -1,0 +1,6 @@
+{
+  "name": "My Daily Hisab",
+  "description": "Daily business income, expense, credit, debit, and profit accounting app in INR with reports and cloud backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
